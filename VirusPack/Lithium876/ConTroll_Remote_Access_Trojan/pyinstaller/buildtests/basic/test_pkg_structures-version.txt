@@ -1,3 +1,4 @@
+
 VSVersionInfo(
     ffi=FixedFileInfo(
 		filevers=(96, 12, 19, 1), 
