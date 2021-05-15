@@ -1,3 +1,4 @@
+
 # -*- mode: python -*-
 a = Analysis(['test_site.py'],
              pathex=['/home/martin/Work/pyinstaller/gitrepo/buildtests/import'],
